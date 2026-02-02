@@ -1,0 +1,10 @@
+# Algolia Agent Demo
+
+This repository contains a short demo video showcasing an AI assistant built using Algolia Agent Studio.
+
+## What this demo shows
+- Agent creation and publish confirmation
+- Agent responding to real user queries
+- Overall working flow of the Algolia agent
+
+The video is provided as a proof of implementation for the Algolia Developer Challenge.
